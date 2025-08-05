@@ -73,7 +73,7 @@ Microservices-Task/
 
 ## ⚙️ Setup Instructions
 
-### 1️⃣ Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/swetabh65/Microservices-Task.git
@@ -91,6 +91,7 @@ cd Microservices-Task
 ---
 
 ## Services and Endpoints
+
 
 <img width="1207" height="599" alt="image" src="https://github.com/user-attachments/assets/eca8966b-ab07-4251-ab13-8ca2b706c3b6" />
 
@@ -118,7 +119,7 @@ cd Microservices-Task
     ```
     Or open in your browser: [http://localhost:3001/products](http://localhost:3001/products)
 
-<img width="730" height="263" alt="image" src="https://github.com/user-attachments/assets/9ffc7de8-1671-4ec8-a3e9-6077c6e98615" />
+
 
 ---
 
@@ -162,6 +163,9 @@ cd Microservices-Task
    docker-compose up
    ```
 2. Once the services are running, use the above endpoints to verify the functionality.
+
+
+
 
 🙌 Author
 Swetabh Sonal
