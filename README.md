@@ -92,6 +92,10 @@ cd Microservices-Task
 
 ## Services and Endpoints
 
+<img width="1207" height="599" alt="image" src="https://github.com/user-attachments/assets/eca8966b-ab07-4251-ab13-8ca2b706c3b6" />
+
+<img width="1435" height="292" alt="image" src="https://github.com/user-attachments/assets/28242cb0-9f94-4b0d-ac33-198d47c4421e" />
+
 ### **User Service**
 - **Base URL:** `http://localhost:3000`
 - **Endpoints:**
@@ -100,6 +104,8 @@ cd Microservices-Task
     curl http://localhost:3000/users
     ```
     Or open in your browser: [http://localhost:3000/users](http://localhost:3000/users)
+
+<img width="759" height="308" alt="image" src="https://github.com/user-attachments/assets/5e365bc0-3e1f-4906-8e02-1435babcd671" />
 
 ---
 
@@ -112,6 +118,8 @@ cd Microservices-Task
     ```
     Or open in your browser: [http://localhost:3001/products](http://localhost:3001/products)
 
+<img width="730" height="263" alt="image" src="https://github.com/user-attachments/assets/9ffc7de8-1671-4ec8-a3e9-6077c6e98615" />
+
 ---
 
 ### **Order Service**
@@ -122,6 +130,8 @@ cd Microservices-Task
     curl http://localhost:3002/orders
     ```
     Or open in your browser: [http://localhost:3002/orders](http://localhost:3002/orders)
+
+<img width="644" height="307" alt="image" src="https://github.com/user-attachments/assets/37374942-9502-4720-afe2-2d962577b32c" />
 
 ---
 
@@ -140,6 +150,9 @@ cd Microservices-Task
     ```
     curl http://localhost:3003/api/orders
     ```
+
+<img width="559" height="289" alt="image" src="https://github.com/user-attachments/assets/4eb62db2-330b-44b0-9876-c52fdbf9f828" />
+
 
 ---
 
